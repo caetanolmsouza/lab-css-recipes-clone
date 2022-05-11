@@ -1,7 +1,46 @@
 .backgroundImage {
-    position: relative;
+    position: center;
     repeat: no-repeat;
-    size: cover;  
-    height: 400px;
+ margin: 0px 360px;
+    height: 800px;
     padding: 0px 0px 0px 0px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+Align: center;
+top: 300px;
+left: 660px;
+position: absolute;
+}
+
+p {
+    text-align: justify;
+    font-size: 23px;
+width: 720px;
+padding-left: 470px;}
+
+.secondImg {
+    padding-left: 640px; 
+    width: 400px;
+}
+
+hr {
+    width: 600px;
+    margin-left: 530px;
+}
+
+h2 {
+    margin: 0px 360px;
+
+}
+
+ol, ul {
+    margin-left: 360px;
+    width: 600px;
+}
+
+ol {
+    width: 800px;
 }
