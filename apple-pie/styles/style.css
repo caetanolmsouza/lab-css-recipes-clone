@@ -1,0 +1,7 @@
+.backgroundImage {
+    position: relative;
+    repeat: no-repeat;
+    size: cover;  
+    height: 400px;
+    padding: 0px 0px 0px 0px;
+}
